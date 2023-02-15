@@ -1,0 +1,4 @@
+{
+    "mongoURI":"insert here",
+    "jwtSecret":"this_is_secret"
+}

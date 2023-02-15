@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "Hard drive failed in workstation  002",
+      "attention": true,
+      "tech": "John Doe",
+      "id": 2,
+      "date": "2022-08-21T12:25:24.069Z"
+    },
+    {
+      "message": "1122 wireless up and running",
+      "attention": false,
+      "tech": "Mark Jhonson",
+      "id": 3,
+      "date": "2022-08-21T12:24:47.021Z"
+    },
+    {
+      "message": "sdvsvbdvsdv",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "id": 5,
+      "date": "2022-08-21T12:25:34.245Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Jhonson",
+      "id": 4
+    }
+  ]
+}
